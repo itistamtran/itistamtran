@@ -1,38 +1,37 @@
 <h1 align="center">Hi 👋, I'm Tam Tran</h1>
 <p align="center">
-  <em>Aspiring AI engineer with interests in software, data science, and research. Excited to build smart tools and explore new ideas.</em>
+  <em>Aspiring AI engineer with interests in software, data science, and research.<br>
+  Computer Science | Data Science | Mathematics @ Cal Poly Pomona (Graduating Fall 2025)</em>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=itistamtran&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
----
 
-- 🌐 Explore my projects: [tamtran.dev]([https://tamtran.dev](https://tamtran.vercel.app/projects))
+- 🌐 Explore my projects: [tamtran.dev](https://tamtran.vercel.app/projects)
 - 🚀 Currently exploring: AWS and cloud fundamentals
 
 ---
 
 ### Connect with me
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tamtran-/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tamtran-/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:itistamtran@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website?logo=githubpages)](https://tamtran.vercel.app)
 
+---
 
-### Skills
----
-#### Programming Languages
----
+## Skills
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 
-#### Development
----
+### Development
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
@@ -48,7 +47,6 @@
 ![Neon](https://img.shields.io/badge/-Neon-333?style=flat&logo=postgresql)
 
 #### Data & AI
----
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI_API-333?style=flat&logo=openai)
@@ -57,21 +55,23 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 
 ### Most Used Languages
----
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&langs_count=6" alt="Most Used Languages" />
 
+---
 
 ### GitHub Stats
----
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=itistamtran&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
-### Contributions
 ---
+
+### Contributions
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=itistamtran&style=flat-square&color=blue)
 
----
+
 
 
