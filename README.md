@@ -55,14 +55,14 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&langs_count=6" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 
 ---
 
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itistamtran&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itistamtran&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
