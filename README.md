@@ -55,7 +55,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&theme=dark" />
 
 ---
 
@@ -69,7 +69,7 @@
 
 ### Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true&theme=dark)
 
 
 ---
