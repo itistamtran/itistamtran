@@ -40,7 +40,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
@@ -53,6 +52,19 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333?style=flat&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
+
+### Software & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="32" title="PyCharm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" title="Jupyter Notebook"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" title="Google Colab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="32" title="Adobe Photoshop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="32" title="Adobe Illustrator"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="32" title="Adobe Premiere Pro"/>
 
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&theme=dark" />
