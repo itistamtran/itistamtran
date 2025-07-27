@@ -44,7 +44,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Neon](https://img.shields.io/badge/-Neon-333?style=flat&logo=postgresql)
+![Postgresql](https://img.shields.io/badge/-Neon-333?style=flat&logo=postgresql)
 
 #### Data & AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
