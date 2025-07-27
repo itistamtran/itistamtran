@@ -74,4 +74,4 @@
 
 ---
 
-*This README is open for inspiration-make it your own!*
+*This README is open for inspiration - make it your own!*
