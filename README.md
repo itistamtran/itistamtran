@@ -3,7 +3,7 @@
   <em>Aspiring AI engineer with interests in software, data science, and research. Excited to build smart tools and explore new ideas.</em>
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=itistamtran&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
