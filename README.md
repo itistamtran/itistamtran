@@ -70,7 +70,6 @@
 ### Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=itistamtran&style=flat-square&color=blue)
 
 
 
