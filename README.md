@@ -30,6 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 
 ### Development
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
@@ -41,7 +42,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Neon](https://img.shields.io/badge/-Neon-333?style=flat&logo=postgresql)
