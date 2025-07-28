@@ -80,7 +80,7 @@
 
 ## Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true&theme=darkhub)
 
 ---
 
