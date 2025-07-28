@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tam Tran</h1>
 <p align="center">
   <em>Aspiring AI engineer with interests in software, data science, and research.<br>
-  Computer Science | Data Science | Mathematics @ Cal Poly Pomona (Graduating Fall 2025)</em>
 </p>
 
 <p>
