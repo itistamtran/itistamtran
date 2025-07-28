@@ -14,7 +14,7 @@
 
 ---
 
-### Connect with me
+## Connect with me
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tamtran-/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:itistamtran@gmail.com)
@@ -72,7 +72,7 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=itistamtran&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
@@ -80,7 +80,7 @@
 
 ---
 
-### Contributions
+## Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true&theme=dark)
 
