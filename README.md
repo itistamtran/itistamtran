@@ -43,9 +43,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Postgresql](https://img.shields.io/badge/-Neon-333?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Neon](https://img.shields.io/badge/-Neon-333?style=flat&logo=postgresql)
 
-#### Data & AI
+### Data & AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI_API-333?style=flat&logo=openai)
@@ -54,8 +55,18 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 
 ### Software & Tools
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333?style=flat&logo=pycharm)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333?style=flat&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=flat&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-333?style=flat&logo=adobeillustrator)
+![InDesign](https://img.shields.io/badge/-InDesign-333?style=flat&logo=adobeindesign)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333?style=flat&logo=adobepremierepro)
+![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="24" title="PyCharm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="24" title="Jupyter Notebook"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24" title="Google Colab"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" title="Figma"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" height="24" title="Adobe Photoshop"/> <img src="https://www.freeiconspng.com/img/12094" height="24" title="Adobe Illustrator"/> <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" height="32" title="Adobe InDesign"/> <img src="https://www.vhv.rs/dpng/d/451-4516154_adobe-indesign-cc-logo-png-png-download-adobe.png" height="24" title="Adobe Premiere Pro"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canva_Logo.svg/1280px-Canva_Logo.svg.png" height="32" title="Canva"/>
 
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&theme=dark" />
