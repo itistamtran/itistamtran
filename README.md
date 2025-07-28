@@ -67,7 +67,6 @@
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333?style=flat&logo=adobepremierepro)
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
-
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itistamtran&layout=compact&hide_border=true&theme=dark" />
 
