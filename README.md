@@ -9,13 +9,12 @@
 </p>
 
 
-- 🌐 Explore my projects: [tamtran.dev](https://tamtran.vercel.app/projects)
+- 🌐 Discover my work: [tamtran.dev](https://tamtran.vercel.app/projects)
 - 🚀 Currently exploring: AWS and cloud fundamentals
 
 ---
 
 ## Connect with me
----
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tamtran-/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:itistamtran@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website?logo=githubpages)](https://tamtran.vercel.app)
