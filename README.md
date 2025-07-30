@@ -79,7 +79,7 @@
 
 ## Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itistamtran&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=itistamtran&theme=dark)
 ---
 
 *This README is open for inspiration - make it your own!*
