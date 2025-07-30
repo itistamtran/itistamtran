@@ -72,7 +72,7 @@
 
 ## GitHub Stats
 
-![Tam Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=rose_pine&show_icons=true)
+![Tam Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=itistamtran&theme=rose_pine&show_icons=true)
 
 ---
 
