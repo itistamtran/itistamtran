@@ -81,7 +81,7 @@
 
 ## Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itistamtran&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itistamtran)](https://git.io/streak-stats)
 
 ---
 
