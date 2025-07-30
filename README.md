@@ -72,9 +72,7 @@
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itistamtran&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
-</p>
+![Tam Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=rose_pine&show_icons=true)
 
 ---
 
